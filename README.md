@@ -1,6 +1,8 @@
 ## Meu nome é Maicon Thales e sua programador Full Stack, focado em Java e Angular.
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
 
 <div align="center">
   <a href="https://github.com/MaiconThales">
